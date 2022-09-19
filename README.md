@@ -1,4 +1,4 @@
-# TP - Programação Orientada a Objetos
+# TP - Programação Orientada a Objetos II
 ## Criar um App "contador de pessoas" com react seguindo o esboço.
 ### Esboço
 ![alt text](images/esboco-web-react-contadorpessoas.png "Title")
